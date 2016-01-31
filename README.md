@@ -1,6 +1,8 @@
 # StringLearn
 Rate strings, and then generate new ones using those ratings.
 
+You might want to try [NameGeneratorEvolve](https://github.com/pommicket/NameGeneratorEvolve) instead of StringLearn unless you want to change more advanced settings or write a program with StringLearn.
+
 StringLearn works by keeping track of the frequencies of n-grams.
 
 Executables can be found in the build directory, but if you want to compile the source code, just run `make` in the src and StringCreate/src directories.
