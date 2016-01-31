@@ -3,7 +3,7 @@ Rate strings, and then generate new ones using those ratings.
 
 StringLearn works by keeping track of the frequencies of n-grams.
 
-Executables can be found in the build directory, but if you want to compile the source code, just run `make` in the src directory.
+Executables can be found in the build directory, but if you want to compile the source code, just run `make` in the src and StringCreate/src directories.
 
 
 **Windows**  
